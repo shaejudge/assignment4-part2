@@ -1,3 +1,7 @@
 Start: Sun, 10 May 2015 06:30:00
 End: Mon, 11 May 2015 02:07:00
+Tasks: Finished all html and table functionality
+
+Start: Tue, 12 May 2015 08:35:00
+End: Tue, 12 May 2015 11:44:00
 Tasks: Completed assignment 4 part 2
